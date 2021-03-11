@@ -1,0 +1,19 @@
+a quirky object [
+  `'  `[ `] ``  `' [
+    this is a value of a key 
+    which contains only special characters 
+    and is padded with spaces on both sides
+  ]
+  `'  this key is left-padded [
+    its value contains all possible special characters: 
+    `[```]
+  ]
+  a right-padded key  `' [  and its value  ]
+  `' [a value of an empty key]
+  a compact list of lists [
+    [[a][b][c]]
+    [[d][e][f]]
+    [[g][h][i]]
+  ]
+  emptiness []
+]
